@@ -13,7 +13,7 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://PRINCE-NDLOVU.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://PRINCE-NDLOVU.github.io/flypass/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
